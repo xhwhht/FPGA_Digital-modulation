@@ -3,5 +3,7 @@
   优势：键控和调制同步却换的实现
  ## 语言  
     verilog
- ## 程序目录结构
+ ## 程序目录结构  
+ ![Image text](https://github.com/xhwhht/FPGA_Digital-modulation/blob/main/image/1.png)
  ## 仿真结果：
+ https://www.bilibili.com/read/cv4799713#reply4444770284
